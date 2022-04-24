@@ -1,2 +1,2 @@
-# bookmark
+# just do it!
 note everything
