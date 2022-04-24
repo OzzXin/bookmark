@@ -1,3 +1,6 @@
+
+---
+
 ### New Terms
 
 ***Data:*** a collection of numbers assigned as values to quantitative variables and/or characters assigned as values to qualitative variables.
